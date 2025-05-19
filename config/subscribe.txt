@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/radio.m3u
 https://tzdr.com/iptv.txt
 
 # 欧歌接口
-https://tv.nxog.top/m/tv/
+https://raw.githubusercontent.com/ouhaibo1980/iptv-api/refs/heads/master/output/result.m3u
 
 # 潇洒接口
 https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
