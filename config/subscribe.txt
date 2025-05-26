@@ -11,3 +11,58 @@ https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整�
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+
+# Guovin搜集
+# iptv-org
+# 2.suxuang
+# asdjkl6  https://github.com/asdjkl6/tv
+# 7.fanmingming
+# 8.vbskycn
+
+
+
+
+
+# 网络搜集
+# 3.yuanzl77
+https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
+http://175.178.251.183:6689/live.m3u
+http://175.178.251.183:6689/live.txt
+# 4.kakaxi
+https://live.kakaxi-1.ink/ipv6.m3u
+https://live.kakaxi-1.ink/iptv.txt
+
+# 7.fanmingming 收音机
+https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u
+https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/radio/m3u/fm.m3u
+# 9.aktv
+http://aktv.top/live.m3u
+# 10.yanG 
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://tv.iill.top/m3u/Gather
+https://tv.iill.top/m3u/Live
+https://tv.iill.top/m3u/Sport
+https://tv.iill.top/m3u/MyTV
+# 11.YueChan收音机
+https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
+https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u
+# 12.Kimentanm
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u
+
+# 18.kilvn
+https://live.kilvn.com/iptv.m3u
+https://live.kilvn.com/radio.m3u
+# 22.jisoypub
+https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/ipv4.m3u
+https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/ipv6.m3u
+https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/radio.m3u
+
+# 广东银河频道有时打不开
+https://tzdr.com/iptv.txt
+
+# 欧歌接口
+https://raw.githubusercontent.com/ouhaibo1980/iptv-api/refs/heads/master/output/result.m3u
+
+# 潇洒接口
+https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
